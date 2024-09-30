@@ -32,4 +32,4 @@ This project explores the use of Multivariate Fourier-Bessel Series Expansion (F
 
 ## Project Report
 
-[Link to the project report (PDF)](report.pdf)
+[Link to the project report (PDF)](P24_Brain computer Interface in mobile environment.pdf)
